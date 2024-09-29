@@ -2,7 +2,9 @@
 
 - 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estudando Javascript e NodeJS
-- ⚡ Fun fact: ...
+- 📆 23 anos
+- 📕 Analise e Desenvolvimento de Sistemas
+- 🌎 Learning English 
 
 <div style="display: inline_block"> <br>
   <img align='center' alt='Mateus-JS' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'>
