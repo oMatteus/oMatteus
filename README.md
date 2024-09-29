@@ -17,7 +17,7 @@
   
 </div>
 
-
+##
 
 <div>
   <a href="https://github.com/omatteus/github-readme-stats">
@@ -28,6 +28,7 @@
   </a>
 </div>
 
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omatteus/omatteus/output/github-contribution-grid-snake-dark.svg">
